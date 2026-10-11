@@ -17,4 +17,5 @@
 a = f"{'天天'} {'开心'}"
 print(a)
 print(3)
+print(4)
 print(5)
