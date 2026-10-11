@@ -16,3 +16,4 @@
 # print(clf.predict(X))  # [ 1  1  1  1 -1  1 ]
 a = f"{'天天'} {'开心'}"
 print(a)
+print(3)
